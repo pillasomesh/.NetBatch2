@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConfigDemoAPI/.vs
+/.vs
+/ConfigDemoAPI/ConfigDemoAPI/bin
+/ConfigDemoAPI/ConfigDemoAPI/obj
+/ConfigDemoAPI/ConfigDemoAPI.Core/bin/Debug/net6.0
+/ConfigDemoAPI/ConfigDemoAPI.Core/obj
+/ConfigDemoAPI/ConfigDemoAPI.Infrastructure/obj
+/ConfigDemoAPI/ConfigDemoAPI.Infrastructure/bin/Debug/net6.0
